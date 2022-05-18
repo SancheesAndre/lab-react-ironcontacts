@@ -1,5 +1,13 @@
 [
   {
+    "name": "John Goodman",
+    "pictureUrl": "https://image.tmdb.org/t/p/w500/eOIx8zj1vYIRhVY2bK5cjIQfua0.jpg",
+    "popularity": 7.914248,
+    "id": "267cbff3-a043-41ac-8d99-489783d75316",
+    "wonOscar": false,
+    "wonEmmy": true
+  },
+  {
     "name": "Idris Elba",
     "pictureUrl": "https://image.tmdb.org/t/p/w500/d9NkfCwczP0TjgrjpF94jF67SK8.jpg",
     "popularity": 11.622713,
@@ -248,14 +256,7 @@
     "wonOscar": true,
     "wonEmmy": true
   },
-  {
-    "name": "John Goodman",
-    "pictureUrl": "https://image.tmdb.org/t/p/w500/eOIx8zj1vYIRhVY2bK5cjIQfua0.jpg",
-    "popularity": 7.914248,
-    "id": "267cbff3-a043-41ac-8d99-489783d75316",
-    "wonOscar": false,
-    "wonEmmy": true
-  },
+
   {
     "name": "Angelina Jolie",
     "pictureUrl": "https://image.tmdb.org/t/p/w500/nsxtg9MQG01hvud1vVEW9vvfukK.jpg",
